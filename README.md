@@ -1,2 +1,2 @@
 ## fakeNews
-  *This is it.
+  * This is it.
